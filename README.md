@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ambarsingh979889@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Funny !🔴**
+- ⚡ Fun fact **You Are Safe !🔴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
