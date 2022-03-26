@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ambarsingh979889@gmail.com**
 
-- ⚡ Fun fact **You Are Safe !🔴**
+- ⚡ Fun fact **You Are Safe on the INTERNET !🔴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
