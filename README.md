@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Bieber</h1>
-<h3 align="center">A Researcher and Bug bounty Hunt3r from India</h3>
+<h3 align="center">A Researcher and Bug bounty Hunt3r </h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"
 
 
