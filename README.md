@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbieber&label=Profile%20views&color=0e75b6&style=flat" alt="alexbieber" /> </p>
 
 <p align="left"> <a href="https://twitter.com/alexbieber12341" target="blank"><img src="https://img.shields.io/twitter/follow/alexbieber12341?logo=twitter&style=for-the-badge" alt="alexbieber12341" /></a> </p>
@@ -11,9 +12,9 @@
 
 - 🌱 I’m currently learning **Books as much as i can !**
 
-- 👨‍💻 All of my projects are available at [ambarsingh979889@gmail.com](ambarsingh979889@gmail.com)
-
 - 💬 Ask me about **Your Queries!**
+
+- 📫 How to reach me **ambarsingh979889@gmail.com**
 
 - ⚡ Fun fact **I Think I Am Funny !🔴**
 
@@ -22,7 +23,7 @@
 <a href="https://twitter.com/alexbieber12341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexbieber12341" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ambar-singh-31ba74231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambar-singh-31ba74231" height="30" width="40" /></a>
 <a href="https://instagram.com/alexbieber1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexbieber1234" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucwxeng4ne6q6ljhjaggm3ua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwxeng4ne6q6ljhjaggm3ua" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucwxeng4ne6q6ljhjaggm3ua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwxeng4ne6q6ljhjaggm3ua" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
