@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Bieber</h1>
 <h3 align="center">A Researcher and Bug bounty Hunt3r </h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbieber&label=Profile%20views&color=0e75b6&style=flat" alt="alexbieber" /> </p>
 
@@ -10,7 +7,7 @@
 
 - 🔭 I’m currently working on **Developing tools**
 
-- 🌱 I’m currently learning **Books as much as i can !**
+- 🌱 I’m currently learning from**Books as much as i can !**
 
 - 💬 Ask me about **Your Queries!**
 
@@ -23,7 +20,7 @@
 <a href="https://twitter.com/alexbieber12341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexbieber12341" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ambar-singh-31ba74231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambar-singh-31ba74231" height="30" width="40" /></a>
 <a href="https://instagram.com/alexbieber1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexbieber1234" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucwxeng4ne6q6ljhjaggm3ua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwxeng4ne6q6ljhjaggm3ua" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCwXEnG4Ne6q6LJhjaGgm3UA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCwXEnG4Ne6q6LJhjaGgm3UA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
