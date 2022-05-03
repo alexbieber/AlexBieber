@@ -36,7 +36,7 @@
       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
   </a>
 </p>
-[Donate me on PayPal(It will inspire me to do more projects)]
+[Donate your money on PayPal(It will inspire soo many people to live their life.)]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbieber&show_icons=true&locale=en&layout=compact" alt="alexbieber" /></p>
 
