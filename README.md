@@ -26,6 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
 # SUPPORT - YOUR MONEY WILL GO TO THE CHARITY AROUND THE WORLD ❤ THANK YOU !
 
 <p><a href="https://www.buymeacoffee.com/alexbieber"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alexbieber" /></a></p><br><br>
@@ -36,7 +37,7 @@
       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
   </a>
 </p>
-[Donate your money on PayPal(It will inspire soo many people to live their life.)]
+# Donate your money and it will inspire soo many people to live their life
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbieber&show_icons=true&locale=en&layout=compact" alt="alexbieber" /></p>
 
