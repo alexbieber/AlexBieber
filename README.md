@@ -31,7 +31,7 @@
 <p><a href="https://www.buymeacoffee.com/alexbieber"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alexbieber" /></a></p><br><br>
 
 # DONATE
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/alexbieber1234/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/ambarsingh979889@gmail.com/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA)
 
 
 [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/alexbieber1234)
