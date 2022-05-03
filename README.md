@@ -30,7 +30,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alexbieber"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alexbieber" /></a></p><br><br>
 
-<p><a href="https://www.paypal.me/alexbieber1234"> <img align="right" src="https://cdn.paypal.me/buttons/v2/default-blue.png" height="50" width="210" alt="alexbieber1234" /></a></p><br><br>
+<p><a href="https://www.paypal.me/alexbieber1234"> <img align="right" src="https://cdn.paypal.com/buttons/v2/default-red.png" height="50" width="210" alt="alexbieber" /></a></p><br><br>
 [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/alexbieber1234)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbieber&show_icons=true&locale=en&layout=compact" alt="alexbieber" /></p>
