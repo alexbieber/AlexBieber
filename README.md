@@ -30,6 +30,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alexbieber"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alexbieber" /></a></p><br><br>
 
+# DONATE
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/alexbieber1234/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA)
+
+
 [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/alexbieber1234)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbieber&show_icons=true&locale=en&layout=compact" alt="alexbieber" /></p>
