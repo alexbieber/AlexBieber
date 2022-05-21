@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex Bieber</h1>
 <h3 align="center">A Researcher and Bug bounty Hunt3r </h3>
-<a href="#"><img width="100%" height="auto" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" height="175px" /></a>
+<a href="#"><img width="100%" height="auto" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" height="17px" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbieber&label=Profile%20views&color=0e75b6&style=flat" alt="alexbieber" /> </p>
 
