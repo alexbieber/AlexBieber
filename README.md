@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Your Queries!**
 
-- 📫 How to reach me **ambarsingh979889@gmail.com**
+- 📫 How to reach me **ambarsingh9798@gmail.com**
 
 - ⚡ Fun fact **You Are Safe on the INTERNET !🔴**
 
